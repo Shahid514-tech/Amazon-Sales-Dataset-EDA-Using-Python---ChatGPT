@@ -25,7 +25,7 @@ This repository contains the code and analysis for my Exploratory Data Analysis 
 
 ## Dataset
 
-The dataset used in this project is the [Amazon Sales Dataset](https://www.kaggle.com/datasets/), which includes detailed sales data for various products.
+The dataset used in this project is the [Amazon Sales Dataset]([https://www.kaggle.com/](https://www.kaggle.com/code/mithilesh9/amazon-sales-data-analysis-using-python)), which includes detailed sales data for various products.
 
 ## Project Structure
 
@@ -88,5 +88,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- The dataset is sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/mithilesh9/amazon-sales-data-analysis-using-python)).
+- The dataset is sourced from [Kaggle]([https://www.kaggle.com/]).
 - Thanks to OpenAI's ChatGPT for assisting with the visualization code.
