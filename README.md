@@ -48,8 +48,7 @@ The dataset used in this project is the [Amazon Sales Dataset]([https://www.kagg
 To run this project, you need to have Python 3.8+ installed. Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/amazon-sales-eda.git
-cd amazon-sales-eda
+https://github.com/Shahid514-tech/Amazon-Sales-Dataset-EDA-Using-Python---ChatGPT.git
 pip install -r requirements.txt
 ```
 
